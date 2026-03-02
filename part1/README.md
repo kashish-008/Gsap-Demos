@@ -1,1 +1,1 @@
-https://kashish-008.github.io/Gsap/part1
+https://kashish-008.github.io/Gsap-Demos/part1
