@@ -1,1 +1,1 @@
-https://kashish-008.github.io/Gsap/minipro1(navbar)
+https://kashish-008.github.io/Gsap-Demos/minipro1(navbar)
